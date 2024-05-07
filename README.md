@@ -3,7 +3,7 @@ This repository includes a Python Module to scrap the public customers reviews d
 - To complete this scraping excercise; you need:
   - 1) Trustpilot API keys can be generated from your account, follow this [documentation](https://support.trustpilot.com/hc/en-us/articles/207309867-How-to-use-Trustpilot-APIs)
     2) Business Unit ID: follow this [documentation](https://documentation-apidocumentation.trustpilot.com/business-units-api-(public)#find-a-business-unit)
-    3) 
+    
 # The project structure includes:
 - trustpilot_scraper.py:
   - truspilot_scraping function: It paginates through pages to extract the data of public reviews on trustpilot of a given business
