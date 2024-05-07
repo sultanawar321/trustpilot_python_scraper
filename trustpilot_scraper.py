@@ -78,7 +78,9 @@ def json_to_pandas(business_unit_id: str, results: list) -> pd.DataFrame:
 
 
 def main():
-    """Combines the functions"""
+    """
+    Combines the functions
+    """
     results = truspilot_scraping(
         BUSINESS_UNIT_ID, REVIEWS_PER_PAGE, HEADERS, SPECIFIC_DATE
     )
