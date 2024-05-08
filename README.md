@@ -16,5 +16,6 @@ This repository includes a Python Module to scrap the public customers reviews d
   
 # Code Execution:
 - To run the program file:
-   python trustpilot_python_scraper.py
+
+  python trustpilot_python_scraper.py
 
